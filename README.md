@@ -14,10 +14,10 @@ https://github.com/haizzzi/lecture_notes/blob/main/word_embedding_vector_exercis
 simple-ntc(댓글 긍정 부정 분류) 학습을 할 수 있는 노트 (구글 drive, data2와 관련)
 https://github.com/haizzzi/simple-nmt-simplied/blob/main/NTC_Exe.ipynb
 
-simple-nmt 전처리 과정을 보여주는 노트(구글 drive, code1, data1과 관련)
+simple-nmt 전처리 과정을 보여주는 노트(구글 drive의 code1, data1과 관련)
 https://github.com/haizzzi/lecture_notes/blob/main/pre-processing.ipynb
 
-simple-nmt(영어->한글 번역) 학습과 테스트를 할 수 있는 노트(구글 drive, code1, data1과 관련)
+simple-nmt(영어->한글 번역) 학습과 테스트를 할 수 있는 노트(구글 drive의 code1, data1과 관련)
 https://github.com/haizzzi/simple-nmt-simplied/blob/main/NMT_Exe.ipynb
 
 <부가 내용들>

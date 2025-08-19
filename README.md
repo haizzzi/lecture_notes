@@ -2,6 +2,9 @@
 파이토치 테스트
 https://github.com/haizzzi/lecture_notes/blob/main/short_tutorial.ipynb
 
+정규식 실습 싸이트
+https://regexone.com/
+
 워드 넷 테스트 
 https://github.com/haizzzi/lecture_notes/blob/main/wordnet.ipynb
 

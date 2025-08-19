@@ -1,4 +1,7 @@
 # 자연어 처리 강의노트
+파이토치 테스트
+https://github.com/haizzzi/lecture_notes/blob/main/short_tutorial.ipynb
+
 워드 넷 테스트 
 https://github.com/haizzzi/lecture_notes/blob/main/wordnet.ipynb
 

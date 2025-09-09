@@ -34,3 +34,6 @@ https://tiktokenizer.f2api.com/
 
 라마3 8b 모델 테스트 
 https://github.com/haizzzi/lecture_notes/blob/main/Llama_3_8b_base_test.ipynb
+
+seq2seq with attention 시각화 
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/

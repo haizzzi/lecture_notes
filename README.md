@@ -2,6 +2,9 @@
 seq2seq with attention 시각화 
 https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
+embedding vector 시각화 
+https://projector.tensorflow.org/
+
 파이토치 테스트
 https://github.com/haizzzi/lecture_notes/blob/main/short_tutorial.ipynb
 

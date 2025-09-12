@@ -5,6 +5,9 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 embedding vector 시각화 
 https://projector.tensorflow.org/
 
+MLE 시각화
+https://rpsychologist.com/likelihood/
+
 파이토치 테스트
 https://github.com/haizzzi/lecture_notes/blob/main/short_tutorial.ipynb
 

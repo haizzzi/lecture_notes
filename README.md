@@ -5,6 +5,9 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 embedding vector 시각화 
 https://projector.tensorflow.org/
 
+monte carlo simulation 시각화
+https://visualize-it.github.io/monte_carlo/simulation.html
+
 MLE 시각화
 https://rpsychologist.com/likelihood/
 
